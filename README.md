@@ -1,6 +1,6 @@
 Data Structure Implementations
 -------------------
-* [Order Statistics Tree](https://github.com/marcelpuyat/RandomDataStructures/blob/master/src/OrderedStatsTree.java)
+* [Order Statistics Tree](https://github.com/marcelpuyat/RandomDataStructures/blob/master/src/OrderStatsTree.java)
   * search, insert, delete, rank, select, min, max, predecessor, successor in O(height) time.
   * get in-order list, and print level-order in O(n) time.
 * [Splay Tree](https://github.com/marcelpuyat/RandomDataStructures/blob/master/src/OrderedSplayTree.java)
