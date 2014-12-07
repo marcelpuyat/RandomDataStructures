@@ -5,7 +5,7 @@ Data Structure Implementations
   * get in-order list, and print level-order in O(n) time.
 
 * [Splay Tree](https://github.com/marcelpuyat/RandomDataStructures/blob/master/src/OrderedSplayTree.java)
-  * subclasses off of order stats tree, so this can perform all operations of ordered stats tree in same O(height) time
+  * subclasses off of order stats tree, so this can perform all operations of ordered stats tree in same time
   * splays nodes to root of tree on insert and search in O(height) time
 
 * [MinMaxHeap](https://github.com/marcelpuyat/RandomDataStructures/blob/master/src/MinMaxHeap.java), or a double-ended priority queue
